@@ -15,7 +15,7 @@ Run `npm install` from the root directory to install dependencies.
 ### Structure and Build Process
 ===
 #### Development
-`lets.gosteady` uses `requirejs` to include modular dependencies. Javascript modules are included in the `app/js` directory. Vendor libraries should be placed in `app/js/vendor` and included in the configuration file `app/js/config.js`. Vendor libraries that are not AMD-compatible should also have an entry in the `shim` section in `app/js/config.js`.
+This boilerplate uses `requirejs` to include modular dependencies. Javascript modules are included in the `app/js` directory. Vendor libraries should be placed in `app/js/vendor` and included in the configuration file `app/js/config.js`. Vendor libraries that are not AMD-compatible should also have an entry in the `shim` section in `app/js/config.js`.
 
 Run `grunt` to compile assets for development and start the `grunt watch` process. The project also uses `browser-sync` for live reload in the browser.
 
