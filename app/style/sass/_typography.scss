@@ -1,0 +1,13 @@
+@mixin serif {
+        font-family: 'Bitter',serif;
+}
+@mixin sans {
+        font-family: 'Open Sans',sans-serif;
+}
+body {     
+        /* Improves font rendering, fixes "chunky" fonts */
+        -webkit-font-smoothing: antialiased;
+        font-style: normal;
+        @include serif;
+        font-weight: 400;
+}

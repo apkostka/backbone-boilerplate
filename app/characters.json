@@ -1,0 +1,83 @@
+[
+  {
+    "name":     "Tyrion Lannister",
+    "house":    "Lannister",
+    "actor":    "Peter Dinklage",
+    "quote":    "It's not easy being drunk all the time. If it were easy, everyone would do it.",
+    "episodes": 28,
+    "image":    "tyrion-lannister.jpg"
+  },
+  {
+    "name":     "Cersei Lannister",
+    "house":    "Lannister",
+    "actor":    "Lean Headey",
+    "quote":    "Everyone who isn't us is an enemy.",
+    "episodes": 27,
+    "image":    "cersei-lannister.jpg"
+  },
+  {
+    "name":     "Arya Stark",
+    "house":    "Stark",
+    "actor":    "Maisie Williams",
+    "quote":    "Valar Morghulis.",
+    "episodes": 27,
+    "image":    "arya-stark.jpg"
+  },
+  {
+    "name":     "Daenerys Targaryen",
+    "house":    "Targaryen",
+    "actor":    "Emilia Clarke",
+    "quote":    "Where are my dragons?",
+    "episodes": 25,
+    "image":    "daenerys-targaryen.jpg"
+  },
+  {
+    "name":     "Catelyn Stark",
+    "house":    "Stark",
+    "actor":    "Michelle Fairley",
+    "quote":    "You can always say no, Ned.",
+    "episodes": 25,
+    "image":    "catelyn-stark.jpg"
+  },
+  {
+    "name":     "Ned Stark",
+    "house":    "Stark",
+    "actor":    "Sean Bean",
+    "quote":    "Winter is coming.",
+    "episodes": 11,
+    "image":    "ned-stark.jpg"
+  },
+  {
+    "name":     "Hodor",
+    "house":    "Stark",
+    "actor":    "Kristian Nairn",
+    "quote":    "Hodor.",
+    "episodes": 17,
+    "image":    "hodor.jpg"
+  },
+  {
+    "name":     "Joffrey Baratheon",
+    "house":    "Lannister",
+    "actor":    "Jack Gleeson",
+    "quote":    "I am the king! I will punish you.",
+    "episodes": 23,
+    "image":    "joffrey-baratheon.jpg"
+  },
+  {
+    "name":     "Jaime Lannister",
+    "house":    "Lannister",
+    "actor":    "Nikolaj Coster-Waldau",
+    "quote":    "I know. People have been swinging at me for years and they always seem to miss.",
+    "episodes": 19,
+    "image":    "jaime-lannister.jpg"
+  },
+  {
+    "name":     "Robb Stark",
+    "house":    "Stark",
+    "actor":    "Richard Madden",
+    "quote":    "Now we'll see what the words are worth.",
+    "episodes": 21,
+    "image":    "robb-stark.jpg"
+  }
+
+]
